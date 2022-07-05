@@ -18,18 +18,18 @@ projetos | tecnologias
 
 ## Básico
 
-projetos | tecnologias
+projetos | Versão
 ---- | ----
 [Incluir aqui](#) | dotnet 
 
 ## Intermediário
 
-projetos | tecnologias
+projetos | Versão
 ---- | ----
 [Incluir aqui](#) | dotnet 
 
 ## Avançado
 
-projetos | tecnologias
+projetos | Versão
 ---- | ----
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | dotnet 6
