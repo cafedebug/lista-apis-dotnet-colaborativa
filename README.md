@@ -1,4 +1,5 @@
-# APIs dotnet colaborativa
+# APIs dotnet colaborativa <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+
 Este é um repositório com listas de APIs em dotnet colaborativa, para que outras pessoas possam usar como base de aprendizado e compartilhar conhecimento.
 
 ## Como funciona?
