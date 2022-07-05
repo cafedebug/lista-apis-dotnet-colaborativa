@@ -11,9 +11,9 @@ Exemplo:
 ```
 ## iniciante
 
-projetos | tecnologias
+projetos | versão
 ---- | ----
-[nome do meu projeto](link para o meu projeto) | dotcore 6
+[nome do meu projeto](link para o meu projeto) | core 6
 ```
 
 
