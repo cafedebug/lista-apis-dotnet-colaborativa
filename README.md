@@ -14,3 +14,9 @@ projetos | tecnologias
 ---- | ----
 [nome do meu projeto](link para o meu projeto) | dotcore 6
 ```
+
+## Avançado
+
+projetos | tecnologias
+---- | ----
+[API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | C#
