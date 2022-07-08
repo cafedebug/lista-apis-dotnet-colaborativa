@@ -21,7 +21,8 @@ projetos | versão
 
 projetos | Versão
 ---- | ----
-[Incluir aqui](#) | dotnet 
+[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | core 6
+
 
 ## Intermediário
 
