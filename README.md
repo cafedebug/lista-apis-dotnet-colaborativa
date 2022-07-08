@@ -21,8 +21,7 @@ projetos | versão do framework
 
 projetos | Versão
 ---- | ----
-[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
-
+[inclua aqui seu projeto]() | versão
 ## Intermediário
 
 projetos | Versão
