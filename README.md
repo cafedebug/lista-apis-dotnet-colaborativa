@@ -9,19 +9,17 @@ A lista está separa por níveis de conhecimento, não importa a versão do dotn
 Exemplo:
 
 ```
-## iniciante
+## Iniciante
 
 projetos | versão
 ---- | ----
-[nome do meu projeto](link para o meu projeto) | core 6
-```
+[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode] (https://github.com/JessicaNathany/api-core) | 6
+[Workshop - ASP.NET CORE para Iniciantes] (https://github.com/glaucia86/workshop-net-core-iniciantes) | 2.0
 
-
-## Básico
 
 projetos | Versão
 ---- | ----
-[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | core 6
+[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode] (https://github.com/JessicaNathany/api-core) | 6
 
 
 ## Intermediário
@@ -34,4 +32,4 @@ projetos | Versão
 
 projetos | Versão
 ---- | ----
-[API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | core 6
+[API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente] (https://github.com/JessicaNathany/api-fanfareInvest) | core 6
