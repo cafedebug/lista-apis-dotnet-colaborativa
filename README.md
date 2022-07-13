@@ -21,7 +21,7 @@ projetos | versão do framework
 
 projetos | Versão
 ---- | ----
-[inclua aqui seu projeto]() | versão
+[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
 ## Intermediário
 
 projetos | Versão
@@ -34,5 +34,5 @@ projetos | Versão
 projetos | Versão
 ---- | ----
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
-[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
+
 
