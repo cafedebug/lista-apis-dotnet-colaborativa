@@ -34,5 +34,5 @@ projetos | Versão
 projetos | Versão
 ---- | ----
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
-[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core)
+[Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
 
