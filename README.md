@@ -34,5 +34,6 @@ projetos | Versão
 projetos | Versão
 ---- | ----
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
+[SSE (Server Sent Events) API que nos permite "ficar pendurado" em um server Http recebendo dados continuamente](https://github.com/angelobelchior/MyCrypto-SSE) | 6
 
 
