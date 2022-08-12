@@ -37,5 +37,6 @@ projetos | Versão
 
 projetos | Versão
 ---- | ----
+[ACME Ports Manager - API para gerenciamento de um serviço portuário aplicando Clean Architecture e MediatR](https://github.com/RegisBarros/Acme.Ports.Manager) | 5
 
 
