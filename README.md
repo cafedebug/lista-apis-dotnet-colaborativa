@@ -31,6 +31,7 @@ projetos | Versão
 [Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
 [SSE (Server Sent Events) API que nos permite "ficar pendurado" em um server Http recebendo dados continuamente](https://github.com/angelobelchior/MyCrypto-SSE) | 6
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
+[Projeto de Teste de Vinícius - WebAPI de Clientes e WebAPI de Autenticação.](https://github.com/vrmvinicius/ProjetoTeste) | 5
 
 
 ## Avançado
