@@ -34,6 +34,7 @@ projetos | Versão
 [SSE (Server Sent Events) API que nos permite "ficar pendurado" em um server Http recebendo dados continuamente](https://github.com/angelobelchior/MyCrypto-SSE) | 6
 [API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | 6
 [Projeto de Teste de Vinícius - WebAPI de Clientes e WebAPI de Autenticação.](https://github.com/vrmvinicius/ProjetoTeste) | 5
+[POC gerador de pdf lib jsreport](https://github.com/JessicaNathany/poc-geracao-pdf) | 6
 
 
 ## Avançado
