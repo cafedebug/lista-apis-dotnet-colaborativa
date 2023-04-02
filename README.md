@@ -23,6 +23,7 @@ projetos | Versão
 ---- | ----
 [Criação uma API básica usando .Net 6 e Entity Framework usando VSCode](https://github.com/JessicaNathany/api-core) | 6
 [Workshop - ASP.NET CORE para Iniciantes](https://github.com/glaucia86/workshop-net-core-iniciantes) | 2.0
+[POC para criação de pdf com lib jsreport](https://github.com/JessicaNathany/poc-geracao-pdf) I 6.0
 
 ## Intermediário
 
