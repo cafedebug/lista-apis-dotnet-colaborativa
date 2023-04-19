@@ -46,7 +46,7 @@ projetos | Versão
 [ACME Ports Manager - API para gerenciamento de um serviço portuário aplicando Clean Architecture e MediatR](https://github.com/RegisBarros/Acme.Ports.Manager) | 5
 [Exemplo de uma implementação de microserviço utilizando o padrão SAGA para criação de uma ordem de venda](https://github.com/RegisBarros/Saga.Sample) | 5
 [The Office API](https://github.com/JessicaNathany/the-office.api) | 6
-
+[Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture) | 7
 
 
 
