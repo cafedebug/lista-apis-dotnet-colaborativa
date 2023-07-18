@@ -26,6 +26,7 @@ projetos | Versão
 [POC para criação de pdf com lib jsreport](https://github.com/JessicaNathany/poc-geracao-pdf)        | 6.0
 [Projeto Criptografia](https://github.com/JessicaNathany/projetoCriptografia) | 4.5
 [Treinamento de Programção Orientado Objetos](https://github.com/JessicaNathany/treinamento-poo) | Core
+[Estrutura de dados com C#](https://github.com/JessicaNathany/algoritmos-estrutura-dados) | 6
 
 
 ## Intermediário
