@@ -28,6 +28,8 @@ projetos | Versão
 [Projeto Criptografia](https://github.com/JessicaNathany/projetoCriptografia) | 4.5
 [Treinamento de Programção Orientado Objetos](https://github.com/JessicaNathany/treinamento-poo) | Core
 [Estrutura de dados com C#](https://github.com/JessicaNathany/algoritmos-estrutura-dados) | 6
+[StudentWebApi](https://github.com/seifhassan89/StudentWebApi) | 6
+
 
 
 ## Intermediário
@@ -49,6 +51,13 @@ projetos | Versão
 [Exemplo de uma implementação de microserviço utilizando o padrão SAGA para criação de uma ordem de venda](https://github.com/RegisBarros/Saga.Sample) | 5
 [The Office API](https://github.com/JessicaNathany/the-office.api) | 6
 [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture) | 7
+[Breaking Bad API](https://github.com/JessicaNathany/breaking-bad.api) | 8
+[Projeto Café Debug backend API] (https://github.com/JessicaNathany/cafedebug-backend.api) | 8
+[Design Patterns] (https://github.com/JessicaNathany/design-patterns) | 6
+[Bank api](https://github.com/erwinkramer/bank-api) | 9
+[Bacen SDK](https://github.com/guibranco/PIX-BACEN-SDK-dotnet) | 6
+[](https://github.com/adyen-examples/adyen-dotnet-online-payments) | 2.2
+
 
 
 
