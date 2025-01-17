@@ -54,9 +54,9 @@ projetos | Versão
 [Breaking Bad API](https://github.com/JessicaNathany/breaking-bad.api) | 8
 [Projeto Café Debug backend API] (https://github.com/JessicaNathany/cafedebug-backend.api) | 8
 [Design Patterns] (https://github.com/JessicaNathany/design-patterns) | 6
-[Bank api](https://github.com/erwinkramer/bank-api) | 9
-[Bacen SDK](https://github.com/guibranco/PIX-BACEN-SDK-dotnet) | 6
-[](https://github.com/adyen-examples/adyen-dotnet-online-payments) | 2.2
+[Bank api] (https://github.com/erwinkramer/bank-api) | 9
+[Bacen SDK] (https://github.com/guibranco/PIX-BACEN-SDK-dotnet) | 6
+[online paument adyen dotnet] (https://github.com/adyen-examples/adyen-dotnet-online-payments) | 2.2
 
 
 
